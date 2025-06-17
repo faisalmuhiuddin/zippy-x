@@ -20,7 +20,7 @@
 
 <h2 align="center">
 
-<img src = "./assets/eyes-to-see.gif" width = 26px align="top"/> &nbsp;[See it in Action](https://zippy-x.vercel.app/) &nbsp;»
+# <!-- <img src = "./assets/eyes-to-see.gif" width = 26px align="top"/> &nbsp;[See it in Action](https://zippy-x.vercel.app/) &nbsp;» -->
 
 </h2>
 
